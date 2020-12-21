@@ -2,6 +2,7 @@
 
 .vscode
 
-dataset/*
+dataset/test/
+dataset/train/
 
 /venv
