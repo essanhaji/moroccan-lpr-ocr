@@ -1,12 +1,14 @@
 numpy==1.14.0
+tensorflow==1.5
+pyzmq==19.0.2
+keras==2.2.4
 h5py==2.7.1
 scipy==1.5.2
 pyzmq==19.0.2
-tensorflow==1.5
-opencv-python==4.1.2.30
-keras==2.2.4
+opencv-python
 pyunpack
 patool
 livelossplot
-
+scikit-learn
+jupyterlab
 
